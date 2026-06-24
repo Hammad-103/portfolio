@@ -1,6 +1,6 @@
 function ProjectCard({ project, index }) {
   return (
-    <div className="flex flex-col gap-4 rounded-2xl border border-zinc-800 bg-[#0a0a0a] p-8 transition hover:-translate-y-1 hover:border-emerald-500">
+    <div className="cursor-pointer flex flex-col gap-4 rounded-2xl border border-zinc-800 bg-[#0a0a0a] p-8 transition hover:-translate-y-1 hover:border-emerald-500">
       <div className="font-mono text-[13px] font-medium text-emerald-500">{String(index + 1).padStart(2, '0')}</div>
       <h3 className="font-serif text-2xl font-semibold text-zinc-100">{project.title}</h3>
       <p className="flex-1 text-sm leading-7 text-zinc-400">{project.description}</p>
