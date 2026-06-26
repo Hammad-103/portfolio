@@ -12,10 +12,10 @@ function About() {
               I'm Hammad Ali, a web app developer based in Multan, Pakistan, and I build things that work the first time, every time.
             </p>
             <p className="mb-5 text-base leading-7 text-zinc-400">
-              HTML, CSS, JavaScript, Data Structures & Algorithms... that's my toolkit, and I use it to build responsive, scalable web applications that actually move the needle for businesses. Clean code isn't a nice to have for me, it's the only way I operate. Pixel perfect frontends, optimized performance... that's the baseline, not the bonus.
+             Modern JavaScript frameworks, clean architecture, and a sharp eye for performance... that's my toolkit, and I use it to build responsive, scalable web applications that actually move the needle for businesses. Clean code isn't a nice to have for me, it's the only way I operate. Pixel perfect frontends, optimized performance... that's the baseline, not the bonus.
             </p>
             <p className="mb-5 text-base leading-7 text-zinc-400">
-              I don't chase trends, I solve problems. That's what gets me up in the morning, and if I can do it while pushing Pakistan's tech scene forward, even better.
+              I don't chase trends, I solve problems. That's what gets me up in the morning.
             </p>
             <p className="text-base leading-7 text-zinc-400">
               So if you've got a project worth building, or you're looking for someone who delivers instead of just talking about it, let's talk. I don't lose. I just haven't started yet.
